@@ -67,6 +67,8 @@ Elected as the students' representative by around 1,000 students subscribed to t
 # References
 
 # Code Samples
+- https://github.com/cajanegra1/VisualVisium
+- https://github.com/cajanegra1/VisualTR
 
 # Languages
 

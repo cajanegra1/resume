@@ -20,7 +20,7 @@ US citizen.
 Wrote software to help unravel biology and human health. Developer for the single cell ATAC product (<code>cellranger-atac</code>) and the Visium/Spatial Transcriptomics product (<code>spaceranger</code>), implemented in Python and Rust. 
 
 ## 2015-2018 | Bioinformatician | Epinomics
-Implemented and trained ML models to decode the programming of our genome -- the epigenome -- to drive personalized medicine, impact drug development and discover leads into clinical applications. Company was acquired by 10x Genomics.
+Implemented, trained, tested and deployed machine learning models to decode the programming of our genome -- the epigenome -- to drive personalized medicine, impact drug development and discover leads into clinical applications. Company was acquired by 10x Genomics.
 
 ## 2012-2015 | Postdoc in the group of Chirstina S. Leslie | Computational Biology Program | MSKCC
 
@@ -38,11 +38,27 @@ Implemented and trained ML models to decode the programming of our genome -- the
 
 - Worked with Professor Blake C. Meyers developing database systems and web interfaces for storage, analysis and visualization of whole genome Small RNA and DNA methylation sequencing data from plant genomes (primarily legumes).
 
-## 2004-2006 | Masters in Electrical and Computer Engineering | University of Delaware
+## 2004-2006 | Master's in Electrical and Computer Engineering | University of Delaware
 
 - GPA: 3.77.
 
 - Focus on statistical image and signal processing. In my master's thesis I designed and implemented models for the human visual system based on the probability functions of alpha stable random variables. These models were shown to be useful in digital halftoning (the process of turning a continuous toned image into binary space for printing) over rectangular and hexagonal sampling grids.
+
+## 1999-2003 | Bachelor's in Electrical and Electronics Engineering | Pontificia Universidad Javeriana
+
+- GPA: 3.40.
+
+- Senior year project was an application of array processing and spectral estimation techniques for calculating the angle of arrival of a mobile source with respect to the normal of a linear array of receptors.
+
+# Volunteer Experience
+
+## 2013-2015 | Instructor for Introduction to R course | Weill Cornell/Rockefeller/MSKCC
+
+Four days, hands-on workshop covering the basics of R, plotting and bioinformatic analyses of high throughput data with R and Bioconductor.
+
+## 2002-2003 | Member of the Engineering Faculty Committee | Pontificia Universidad Javeriana
+
+Elected as the students' representative by around 1,000 students subscribed to the Electrical Engineering Department. This committee is the governing board of the Engineering faculty.
 
 # References
 

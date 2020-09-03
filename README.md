@@ -12,7 +12,9 @@ Live in Livermore, CA, and love Sauced BBQ and Spirits.
 We are Christians and members of the Valley Christian Center community.
 Love to play fútbol and follow La Liga.
 Grew up in Cali, Colombia, and attended college in Bogotá, Colombia.
-US citizen. 
+US citizen.
+
+## Employment and Education
 
 # 2018-2020 | Senior Computational Biologist | 10x Genomics
 Wrote software to help unravel biology and human health. Developer for the single cell ATAC product (<code>cellranger-atac</code>) and the Visium/Spatial Transcriptomics product (<code>spaceranger</code>), implemented in Python and Rust. 

@@ -67,3 +67,7 @@ Elected as the students' representative by around 1,000 students subscribed to t
 # References
 
 # Code Samples
+
+# Languages
+
+English (fluent) and Spanish (mother tongue).

@@ -1,6 +1,6 @@
 Computational biologist.
 Extensive experience in the processing and statistical analysis of next generation sequencing data, for single cell, bulk and spatial genomics libraries.
-Was a member of ENCODE and Roadmap Epigenomics.
+Member of ENCODE and Roadmap Epigenomics.
 Experience with: ATAC-, DNase-, RNA-, Small RNA-, 3/4/5/HiC-, TF-ChIP-, HistMod-ChIP-, MeDIP-, and DNAmethyl-seq.
 Solid publication record on functional genomics and epigenomics, focused on the integration of disparate datasets to understand and unravel new genome-wide principles of transcriptional and post transcriptional regulation in mammalian systems.
 Have been using machine and statistical learning since my Ph.D. in proteomics.
@@ -13,3 +13,6 @@ We are Christians and members of the Valley Christian Center community.
 Love to play fútbol and follow La Liga.
 Grew up in Cali, Colombia, and attended college in Bogotá, Colombia.
 US citizen. 
+
+# 2018-2020 | Senior Computational Biologist | 10x Genomics
+Wrote software to help unravel biology and human health. Developer for the single cell ATAC product (<code>cellranger-atac</code>) and the Visium/Spatial Transcriptomics product (<code>spaceranger</code>), implemented in Rust and Python. 

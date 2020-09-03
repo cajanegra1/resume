@@ -29,3 +29,7 @@ Implemented and trained ML models to decode the programming of our genome -- the
 - Small RNAs: We show that in vivo, many expressed microRNAs exist in an inactive reserve, not stably associated with target mRNA. External signaling can promote the recruitment of these inactive microRNAs to large mRNA-containing complexes, in which their ability to repress targets is increased. In collaboration with Tom Tuschl (Rockefeller), Craig Thompson, and Andrea Ventura (MSKCC).
 - Small RNAs: Study of polycistronic microRNA clusters. A large scale RNA-seq analysis of wild type and mutant embryos that were genetically engineered to harbor targeted deletions of individual components of the miR-17~92 cluster. We show how functional cooperation between members of the microRNA cluster affects gene expression programs in vivo. In collaboration with Andrea Ventura (MSKCC).
 - Pharmacogenomics: Using drug response data for cancer cell lines, e.g. CCLE, we developed a multi-task learning strategy to predict drug sensitivity by jointly learning across many drugs. On held-out data, our joint training not only outperforms models that predict response individually for each drug, but also produces more interpretable results that lead to potential drug repurposing targets.
+
+# References
+
+# Code Samples

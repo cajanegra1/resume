@@ -50,6 +50,10 @@ Implemented, trained, tested and deployed machine learning models to decode the 
 
 - Senior year project was an application of array processing and spectral estimation techniques for calculating the angle of arrival of a mobile source with respect to the normal of a linear array of receptors.
 
+# Publications
+
+In [Google Scholar](https://scholar.google.com/citations?hl=en&user=ValIpuoAAAAJ&view_op=list_works&sortby=pubdate).
+
 # Volunteer Experience
 
 ## 2013-2015 | Instructor for Introduction to R course | Weill Cornell/Rockefeller/MSKCC

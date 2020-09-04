@@ -17,12 +17,12 @@ US citizen.
 # Employment and Education
 
 ## 2018-2020 | Senior Computational Biologist | 10x Genomics
-Wrote software to help unravel biology and human health. Developer for the single cell ATAC product (<code>cellranger-atac</code>) and the Visium/Spatial Transcriptomics product (<code>spaceranger</code>), implemented in Python and Rust. 
+Wrote software to help unravel biology and human health. Developer for the single cell ATAC product [(<code>cellranger-atac</code>)](https://support.10xgenomics.com/single-cell-atac/software/overview/welcome) and the Visium/Spatial Transcriptomics product [(<code>spaceranger</code>)](https://support.10xgenomics.com/spatial-gene-expression/software/overview/welcome), implemented in Python and Rust. 
 
 ## 2015-2018 | Bioinformatician | Epinomics
 Implemented, trained, tested and deployed machine learning models to decode the programming of our genome -- the epigenome -- to drive personalized medicine, impact drug development and discover leads into clinical applications. Company was acquired by 10x Genomics.
 
-## 2012-2015 | Postdoc in the group of Chirstina S. Leslie | Computational Biology Program | MSKCC
+## 2012-2015 | Postdoc in the group of Christina S. Leslie | Computational Biology Program | MSKCC
 
 - Enhancer dynamics: Integrative analysis of enhancer landscape and gene expression dynamics in hematopoietic differentiation using DNase-seq, histone mark ChIP-seq, and RNA-seq. Using a model that learns chromatin to predict gene expression, we showed how early establishment of enhancers and regulatory locus complexity together govern gene expression changes at cell state transitions.
 - Immunology: Using inducible genetic tracing, we analyzed the long-term stability of activation-induced transcriptional, epigenomic, and functional changes in regulatory T cells (Tregs). We found that the inflammation-experienced Treg cell population reversed many activation-induced changes and lost its enhanced suppressive function over time. ‘‘Memory-less’’ Tregs may help avoid a state of generalized immunosuppression. In collaboration with Alexander Rudensky (MSKCC).
@@ -34,7 +34,7 @@ Implemented, trained, tested and deployed machine learning models to decode the 
 
 - GPA: 3.95.
 
-- Worked with Professors Li Liao and Cathy H. Wu on machine learning applications for proteomics. In my dissertation I studied and designed statistical learning techniques (e.g. hidden Markov models, support vector machines, the Fisher score, feature selection, kernel canonical correlation analysis) for prediction of protein-protein interactions, their binding residues and the functional and binding sites in both protein-ligand and enzyme-substrate complexes.
+- Worked with Professors Li Liao and Cathy H. Wu on machine learning and applications in proteomics. In my dissertation I studied and designed statistical learning techniques (e.g. hidden Markov models, support vector machines, the Fisher score, feature selection, kernel canonical correlation analysis) for prediction of protein-protein interactions, their binding residues and the functional and binding sites in both protein-ligand and enzyme-substrate complexes.
 
 - Worked with Professor Blake C. Meyers developing database systems and web interfaces for storage, analysis and visualization of whole genome Small RNA and DNA methylation sequencing data from plant genomes (primarily legumes).
 

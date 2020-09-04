@@ -71,6 +71,18 @@ Neil was my product lead for the Visium/Spatial Transcriptomics product at 10x G
 Email: <neil@10xgenomics.com>  
 [LinkedIn](https://www.linkedin.com/in/neilweisenfeld/)
 
+- Grace Zheng, ArsenalBio  
+Grace was my product lead for the single cell ATAC-seq product at 10x Genomics  
+Email: <gracexyzheng@gmail.com>  
+[LinkedIn](https://www.linkedin.com/in/grace-zheng-654aa73/)
+
+- Fergus Chan, 10x Genomics  
+Fergus was my CEO at Epinomics  
+Email: <fergus.ch.chan@gmail.com>  
+[LinkedIn](https://www.linkedin.com/in/ferguschanimpact/)
+
+- Christina S. Leslie
+
 # Code Samples
 - https://github.com/cajanegra1/VisualVisium
 - https://github.com/cajanegra1/VisualTR

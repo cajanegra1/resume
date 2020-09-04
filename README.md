@@ -66,9 +66,9 @@ Elected as the students' representative by around 1,000 students subscribed to t
 
 # References
 
-- Neil Weisenfeld, 10x Genomics
-Neil was my product lead for the Visium/Spatial Transcriptomics product at 10x Genomics 
-Email: <neil@10xgenomics.com>
+- Neil Weisenfeld, 10x Genomics  
+Neil was my product lead for the Visium/Spatial Transcriptomics product at 10x Genomics  
+Email: <neil@10xgenomics.com>  
 [LinkedIn](https://www.linkedin.com/in/neilweisenfeld/)
 
 # Code Samples

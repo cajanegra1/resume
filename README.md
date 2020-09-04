@@ -81,12 +81,12 @@ Fergus was my CEO at Epinomics
 Email: <fergus.ch.chan@gmail.com>  
 [LinkedIn](https://www.linkedin.com/in/ferguschanimpact/)
 
-- Christina S. Leslie  
+- Christina S. Leslie, MSKCC  
 Christina was my postdoctoral PI  
 Email: <cleslie@cbio.mskcc.org>  
 [LinkedIn](https://www.linkedin.com/in/christina-leslie-578629a3/)
 
-- Li Liao  
+- Li Liao, University of Delaware  
 Li was my Ph.D. advisor  
 Email: <liliao@udel.edu>  
 [LinkedIn](https://www.linkedin.com/in/li-liao-5b420b35/)

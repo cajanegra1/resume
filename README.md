@@ -4,7 +4,7 @@ Member of ENCODE and Roadmap Epigenomics.
 Experience with: [sc]ATAC-, DNase-, [sc]RNA-, Small RNA-, 3/4/5/HiC-, TF-ChIP-, HistMod-ChIP-, MeDIP-, and DNAmethyl-seq.
 Solid publication record on functional genomics and epigenomics, focused on the integration and modeling of disparate datasets to understand and unravel new genome-wide principles of transcriptional and post transcriptional regulation in mammalian systems.
 Have been using machine and statistical learning since my Ph.D. in proteomics.
-~20 years programming experience: R (with Bioconductor), Python, Matlab, Perl, SQL, Java, C/C++, Lisp, HTML, PHP.
+~20 years programming experience: R (with Bioconductor), Python, Shell, Matlab, Perl, SQL, Java, C/C++, Lisp, HTML, PHP.
 Trained in Spark/big data analytics platforms for use in biological data storage and analysis.
 Using deep learning models for regulatory genomics and single cell data representations.
 Married to Erin M. González, father of Victoria Leena and Antonio David.
@@ -53,6 +53,16 @@ Implemented, trained, tested and deployed machine learning models to decode the 
 # Publications
 
 In [Google Scholar](https://scholar.google.com/citations?hl=en&user=ValIpuoAAAAJ&view_op=list_works&sortby=pubdate).
+
+# Tech Skills
+
+- Data Analysis Pipelines: Experience in constructing data analysis workflows, visualization, computing and reporting metrics, and effectively communicating results.
+
+- Continuous Integration: Travis CI.
+
+- Cloud: AWS and Google Cloud.
+
+- Version Control: Git and GitHub, effective and kind communicator in the pull request and review process.
 
 # Volunteer Experience
 

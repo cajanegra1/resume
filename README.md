@@ -86,15 +86,15 @@ Grace was my product lead for the single cell ATAC-seq product at 10x Genomics
 Email: <gracexyzheng@gmail.com>  
 [LinkedIn](https://www.linkedin.com/in/grace-zheng-654aa73/)
 
-- Fergus Chan, 10x Genomics  
-Fergus was my CEO at Epinomics  
-Email: <fergus.ch.chan@gmail.com>  
-[LinkedIn](https://www.linkedin.com/in/ferguschanimpact/)
-
 - Christina S. Leslie, MSKCC  
 Christina was my postdoctoral PI  
 Email: <cleslie@cbio.mskcc.org>  
 [LinkedIn](https://www.linkedin.com/in/christina-leslie-578629a3/)
+
+- Fergus Chan, 10x Genomics  
+Fergus was my CEO at Epinomics  
+Email: <fergus.ch.chan@gmail.com>  
+[LinkedIn](https://www.linkedin.com/in/ferguschanimpact/)
 
 - Li Liao, University of Delaware  
 Li was my Ph.D. advisor  

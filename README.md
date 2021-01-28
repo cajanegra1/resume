@@ -8,8 +8,8 @@ Have been using machine and statistical learning since my Ph.D. in proteomics.
 Trained in Spark/big data analytics platforms for use in biological data storage and analysis.
 Using deep learning models for regulatory genomics and single cell data representations.
 Married to Erin M. González, father of Victoria Leena and Antonio David.
-Live in Livermore, CA, and love Sauced BBQ and Spirits.
-We are Christians and members of the Valley Christian Center community.
+Live in Strongsville, OH, and love Niko's Bary & Gyros.
+We are Christians and members of the Valley Christian Center community in Dublin, CA.
 Love to play fútbol and follow La Liga.
 Grew up in Cali, Colombia, and attended college in Bogotá, Colombia.
 US citizen.

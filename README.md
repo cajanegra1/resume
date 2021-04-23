@@ -16,6 +16,9 @@ US citizen.
 
 # Employment and Education
 
+## 2020-Present | Senior Computational Biologist | Freenome
+Working on ML modeling of methylation and epigenetic signals for detection of early signs of disease in blood.
+
 ## 2018-2020 | Senior Computational Biologist | 10x Genomics
 Wrote software to help unravel biology and human health. Developer for the single cell ATAC product [(<code>cellranger-atac</code>)](https://support.10xgenomics.com/single-cell-atac/software/overview/welcome) and the Visium/Spatial Transcriptomics product [(<code>spaceranger</code>)](https://support.10xgenomics.com/spatial-gene-expression/software/overview/welcome), implemented in Python and Rust. 
 
@@ -75,6 +78,11 @@ Four days, hands-on workshop covering the basics of R, plotting and bioinformati
 Elected as the students' representative by around 1,000 students subscribed to the Electrical Engineering Department. This committee is the governing board of the Engineering faculty.
 
 # References
+
+- Julie Granka, Freenome
+Julie is my manager at Freenome
+Email: <julie.granka@freenome.com>
+[LinkedIn](https://www.linkedin.com/in/julie-granka-69156550/)
 
 - Neil Weisenfeld, 10x Genomics  
 Neil was my product lead for the Visium/Spatial Transcriptomics product at 10x Genomics  
